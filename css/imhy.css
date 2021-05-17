@@ -1,0 +1,88 @@
+/* Hyobin Im - 991526068 */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+#priceImg{
+    width: 50px;
+    height: 30px;
+}
+
+#me{
+    width:  50px;
+    height: 60px;
+}
+
+h1{
+    margin:0;
+    width: 100%;
+    text-align: center;
+    background-color:#394bad;
+    color: white;
+}
+
+html, body{
+    margin:0;
+    padding:0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.mainDiv{
+    display:flex;
+    justify-content:space-evenly;
+}
+
+p{
+    margin-top:55px;
+    margin-bottom:55px;
+    font-size:15px;
+}
+
+.price, .button{
+    text-align:center;
+}
+
+.column1{
+    width:40%;
+    text-align:left;
+}
+
+.column2{
+    width:40%;
+    text-align:left;
+}
+
+footer{
+    position:absolute;
+    background-color: #394bad;
+    color: white;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    font-size: 20px;
+    text-align:center;
+}
+
+
+input[type="text"]{
+    width:70px;
+}
+
+input[type="number"]{
+    width:20px;
+}
+
+#button{
+    background-color:#bcdd33;
+}
+
+#price{
+    text-align:center;
+}
+
+#products{
+    width: 65px;
+}
+
+#email{
+    width:70px;
+}
